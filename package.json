@@ -85,10 +85,6 @@
     "webpack-dev-server": "^4.8.1",
     "webpack-merge": "^5.8.0"
   },
-  "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
   "dependencies": {
     "reseter.css": "^2.0.0"
   },
