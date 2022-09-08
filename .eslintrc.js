@@ -31,6 +31,7 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     'no-use-before-define': 'off',
     'no-unused-vars': 'off',
+    'import/no-unresolved': 'off',
   },
   settings: {
     react: {

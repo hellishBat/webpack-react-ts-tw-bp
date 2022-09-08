@@ -17,6 +17,7 @@
 - SVGR converts SVG into React components and inserts them as inline SVG into HTML.
 - ESlint and Stylelint
 - Prettier
+- Support of environment variables (dotenv)
 - Webpack Bundle Analyzer (**Prod mode**)
   - An HTML report file will be created in the **reports** folder.
 
