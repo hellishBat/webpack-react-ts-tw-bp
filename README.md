@@ -1,4 +1,4 @@
-# Webpack Boilerplate (React TS + Tailwind CSS Edition)
+# Webpack React TS Boilerplate (Tailwind CSS Edition)
 
 ## Features
 

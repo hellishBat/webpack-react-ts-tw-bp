@@ -1,6 +1,6 @@
 {
   "name": "webpack-react-ts-tw-bp",
-  "title": "Webpack React Boilerplate (TypeScript + Tailwind CSS Edition)",
+  "title": "Webpack React TS Boilerplate (Tailwind CSS Edition)",
   "version": "1.0.0",
   "main": "index.ts",
   "repository": "https://github.com/valentine-samoylov/webpack-react-ts-tw-bp.git",
