@@ -52,6 +52,7 @@
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^3.4.1",
     "cssnano": "^5.1.11",
+    "dotenv-webpack": "^8.0.1",
     "eslint": "^8.17.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
@@ -86,6 +87,8 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "reseter.css": "^2.0.0"
   },
   "browserslist": [
